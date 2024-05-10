@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Women Security App</string>
+    <string name="map_key">AIzaSyC2SYO4xHA6H2xEdc1dS7x_isoTOkEpVIg</string>
+
+    <string name="first">1.woman must have all the emergency numbers with them and WhatsApp also if possible so that they can immediately tell to their family members and polices.</string>
+
+    <string name="second">2.Hold your bag as tightly as you can when you are taking public transport. You can use it to hit your predator.</string>
+
+    <string name="third">3.When you are walking on a road,keep your mobile phone handy but android using it.Being on the phone makes you less alert.</string>
+
+    <string name="fourth">4.When you are travelling in an auto alone,make sure you share the auto number with someone in your family even if its during the day.</string>
+
+    <string name="fifth">5.Similarly,if you have booked a cab, always share your coordinates with someone.</string>
+
+    <string name="six">6.When in office,avoid going to isolated areas with no CCTV cameras.</string>
+
+    <string name="seven">7,If you feel someone is stalking you,try to find a crowded place and call someone for help.</string>
+
+    <string name="eight">8.Escape and run is also a good way to reduce some risks of women whennever they become in problem.They should never go with any unknown person alone at some unknown places.</string>
+
+    <string name="nine">9.They should be careful while communicating with  someone on internet in the cyberspace.</string>
+
+    <string name="ten">10.Women should be very conscious while driving the car and going to any trip.They must lock all the doors of car while travelling with own or private car.</string>
+
+
+</resources>
